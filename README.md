@@ -1,1 +1,1 @@
-Practice Codecademy's Git course project recursion
+Practice Codecademy's Git course project excursion
